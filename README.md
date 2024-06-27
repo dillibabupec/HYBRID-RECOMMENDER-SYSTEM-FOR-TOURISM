@@ -1,1 +1,1 @@
-# HYBRID-RECOMMENDER-SYSTEM-FOR-TOURISM
+# Smart City Guide Project
